@@ -1,0 +1,9 @@
+{
+  "appId": "com.copperandwax.player",
+  "appName": "Copper & Wax",
+  "webDir": "dist",
+  "backgroundColor": "#0c0a06",
+  "android": {
+    "backgroundColor": "#0c0a06"
+  }
+}
